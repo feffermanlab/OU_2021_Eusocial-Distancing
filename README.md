@@ -14,7 +14,7 @@ Click the SETUP button to set up the ant nests (in violet and yellow, at the top
 
 The details for the BEHAVIORSPACE simulation experiments are in the appendix of the paper (Lemanski et al. 2021).
 
-See README file for screenshots of the settings.
+See README.docx file for screenshots of the settings. Click view raw to download the file to view it. 
 
 
 
